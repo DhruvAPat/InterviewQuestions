@@ -2,6 +2,7 @@
 def missarray(arr):
     l=len(arr)
     natural=[]
+    #calculating and storing the number in the list
     for i in range(1,l+2):
         natural.append(i)
     
